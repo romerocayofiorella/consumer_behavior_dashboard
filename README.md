@@ -14,14 +14,14 @@ usando Python, SQL Server y Power BI.
 
 ## Estructura del proyecto
 mi_dashboard_project/
-
+```
 ├── data/          → Dataset original CSV
 ├── sql/           → Script de creación de tablas
 ├── scripts/       → Script Python para poblar la BD
 ├── dashboard/     → Archivo Power BI (.pbix)
 ├── design/        → Logo, paleta de colores y tema
-└── images/        → Capturas de las vistas}
-
+└── images/        → Capturas de las vistas
+```
 ---
 
 ## Modelo de datos
