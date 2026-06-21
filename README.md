@@ -34,6 +34,8 @@ de hechos y dimensiones normalizadas:
 - **dim_payment_method, dim_shipping_type** — comportamiento
 - **dim_frequency, dim_season, dim_discount_status** — atributos
 
+![Modelo de datos](mi_dashboard_project/images/modelo_datos.png)
+
 ---
 
 ## Dashboard
